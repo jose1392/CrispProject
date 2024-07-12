@@ -1,3 +1,24 @@
+Hello and thank you for the opportunity to demonstrate my solution
+The Main.tf file is the Terraform file which deploys the entire infrastructure on Azure. I show several screenshot in this repo of the infrastructure.
+The solution was a pre-cooked application I found in Github so I do not take credit for the application
+The pipeline I used is Azure Pipelines and the process is fairly straight forward deploying the application to AKS per the screenshots.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is a sample of what the conversion of csv to parquet looks like
+
 # Convert CSV to parquet file
 
 This small tool is used to convert a CSV file to parquet files. By default chunks of 100 000 rows is used to split into different parquet files.
